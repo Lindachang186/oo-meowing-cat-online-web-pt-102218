@@ -5,6 +5,3 @@ class Cat
     puts "meow!"
   end
 end
-
-Linda = Cat.new
-Linda.meow
