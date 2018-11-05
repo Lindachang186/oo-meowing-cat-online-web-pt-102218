@@ -7,3 +7,4 @@ class Cat
 end
 
 Linda = Cat.new
+Linda.meow
